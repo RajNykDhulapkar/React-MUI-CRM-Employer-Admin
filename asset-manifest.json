@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-MUI-CRM-Employer-Admin/static/css/main.61ac7470.css",
+    "main.js": "/React-MUI-CRM-Employer-Admin/static/js/main.d68a1b74.js",
+    "static/js/787.6e6a4ea6.chunk.js": "/React-MUI-CRM-Employer-Admin/static/js/787.6e6a4ea6.chunk.js",
+    "index.html": "/React-MUI-CRM-Employer-Admin/index.html",
+    "main.61ac7470.css.map": "/React-MUI-CRM-Employer-Admin/static/css/main.61ac7470.css.map",
+    "main.d68a1b74.js.map": "/React-MUI-CRM-Employer-Admin/static/js/main.d68a1b74.js.map",
+    "787.6e6a4ea6.chunk.js.map": "/React-MUI-CRM-Employer-Admin/static/js/787.6e6a4ea6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ac7470.css",
+    "static/js/main.d68a1b74.js"
+  ]
+}
